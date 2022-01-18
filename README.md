@@ -1,1 +1,1 @@
-# day02_crawling(Python)
+# day02_crawling
